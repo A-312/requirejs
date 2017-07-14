@@ -1,6 +1,6 @@
 Ma classe requirejs.
 
-```
+```html
 <meta name="requirejs.dir-js" content="javascript/" />
 ```
 
@@ -11,7 +11,7 @@ Variables de configuration :
  - `requirejs.dir-css` : S'applique à css.
  - `requirejs.dir-img` : S'applique à img.
 
-```
+```js
 requirejs.load({
 	js: [
 		"file1.js",
