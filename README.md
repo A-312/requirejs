@@ -1,3 +1,9 @@
+# Utilisez terser au lieu de ce script !
+
+Utilisez plutôt : [gulp-terser-js](https://www.npmjs.com/package/gulp-terser-js) comme ceci : https://github.com/A-312/ludumdare-basecode
+
+----
+
 Ma classe requirejs.
 
 ```html
